@@ -7,4 +7,6 @@ public class DemoController {
     public void demo() {
         System.out.println("demo");
     }
+
+    public void demoDetail(){}
 }
